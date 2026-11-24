@@ -1,0 +1,6 @@
+{
+  "name": "SiriGro",
+  "description": "Independent technical consultancy for the seed and adjacent industries — bridging science and industry from R&D to commercial application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
